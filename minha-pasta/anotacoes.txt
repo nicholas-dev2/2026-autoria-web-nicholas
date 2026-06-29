@@ -1,7 +1,19 @@
-dir - mostra os diretórios daquele endereço
-cd - te permite navegar entre as pastas
-git init - tranforma aquela pasta em um repositório
-git status - mostra o monitoramento da sua pasta
-git add - adiciona arquivos no repositorio
-git config --global user.name/user.email "name/email" - identifica a conta do github atrelada ao seu repositótio
-git commit -m "commit" - depois de modificar certos arquivos, você manda as alterações pro repositório
+O que é git e github?
+	
+	Git é uma ferramenta de versionamento de código que cria repositórios locais na sua máquina para facilitar o gerenciamento do projeto.
+	Github é uma plataforma de armazenamento em nuvem que permite criar repositórios remotos e versionar o seu código de maneira remota e colaborativa.
+	
+
+Comandos essenciais para o git no terminal:
+
+	dir: Mostra os diretórios daquele endereço
+	cd: Te permite navegar entre as pastas.
+	git init: Tranforma aquela pasta em um repositório.
+	git status: Mostra o monitoramento da sua pasta.
+	git add: Adiciona arquivos no repositorio.
+	git config --global user.name/user.email "name/email": Identifica a conta do github atrelada ao seu repositótio.
+	git commit -m "commit": Depois de modificar certos arquivos, você manda as alterações pro repositório.
+		As mensagens de commit devem ser objetivas e ajudarem a identificar a função do commit.
+	git push: É usado para enviar as modificaçõs do commit para o repositório remoto.
+	git clone: Ele clona um repositório remoto de maneira local na sua máquina, te permitindo fazer alterações através da sua máquina.
+	
