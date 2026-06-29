@@ -1,0 +1,7 @@
+dir - mostra os diretórios daquele endereço
+cd - te permite navegar entre as pastas
+git init - tranforma aquela pasta em um repositório
+git status - mostra o monitoramento da sua pasta
+git add - adiciona arquivos no repositorio
+git config --global user.name/user.email "name/email" - identifica a conta do github atrelada ao seu repositótio
+git commit -m "commit" - depois de modificar certos arquivos, você manda as alterações pro repositório
